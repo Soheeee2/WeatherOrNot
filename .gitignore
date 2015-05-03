@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 #I want to ignore i.c file
 ########
 i.c
+=======
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+>>>>>>> e7191ec816913a0bb4231612fc13adfe3c469a8d
